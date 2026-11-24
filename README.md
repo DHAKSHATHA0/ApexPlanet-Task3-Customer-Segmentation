@@ -160,9 +160,3 @@ The analysis identifies customer segments, evaluates their revenue contribution,
 ## Internship
 
 **ApexPlanet Software Pvt. Ltd.**  
-60-Day Data Analytics Internship  
-Task 3 – Deep-Dive Analysis & Interactive Dashboarding
-
----
-
-**Developed by:** Dhakshatha Selvaraj
